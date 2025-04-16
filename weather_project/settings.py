@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-u88&fmydaj5gpfn^_)di1nfrwm#4wms2!c_0s0%&whp1b@ii=6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["weatherly-54st.onrender.com"]
 
 
 # Application definition
